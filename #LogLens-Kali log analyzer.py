@@ -18,7 +18,7 @@ unknown_count = 0
 invalid_count = 0
 high_severity_message_count = {}
 
-with open('/home/manjusri/Documents/Terra/Loglens/sample.log') as file:
+with open('') as file: #<---sample file path here. 
    
     events = []
     message_count = {}
